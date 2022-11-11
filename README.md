@@ -356,8 +356,6 @@ function reject($a, $f) {
 
 ## **[Deodorant Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f)**
 
-**DESCRIPTION:**
-
 ```php
 function evaporator($content, $evap_per_day, $threshold)
 {
@@ -472,8 +470,8 @@ function find_even_index($arr)
 ## **[Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)**
 
 ```php
-function find_average($array) {
-  return empty($array) ? 0 : array_sum($array) / count($array);
+function find_average($array): float {
+  return $array ? array_sum($array)/count($array) : 0;
 }
 ```
 
@@ -484,8 +482,6 @@ function find_average($array) {
 ***
 
 ## **[Scrolling Text](https://www.codewars.com/kata/5a995c2aba1bb57f660001fd)**
-
-**Решение:**
 
 ```php
 function scrollingText($text)
