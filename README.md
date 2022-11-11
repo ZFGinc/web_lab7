@@ -119,17 +119,11 @@
     echo $var;
     ```
 
-## <img src ="img/codewars_logo.svg" height = 32px> [Codewars](https://www.codewars.com)
-
-![7kyu](img/codewars_7kyu.png)
+## [Codewars](https://www.codewars.com)
 
 23. [Breaking chocolate problem](https://www.codewars.com/kata/534ea96ebb17181947000ada)
 
-![6kyu](img/codewars_6kyu.png)
-
 24. [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050)
-
-![7kyu](img/codewars_7kyu.png)
 
 25. [The reject() function](https://www.codewars.com/kata/52988f3f7edba9839c00037d)
 
@@ -141,15 +135,9 @@
 
 29. [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 
-![6kyu](img/codewars_6kyu.png)
-
 30. [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 
-![8kyu](img/codewars_8kyu.png)
-
 31. [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
-
-![7kyu](img/codewars_7kyu.png)
 
 32. [Scrolling Text](https://www.codewars.com/kata/5a995c2aba1bb57f660001fd)
 
